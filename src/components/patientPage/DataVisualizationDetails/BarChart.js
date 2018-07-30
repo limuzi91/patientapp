@@ -50,7 +50,7 @@ export default class BarChart extends React.Component {
         text: "Patient's Medical Info"
       },
       legend: {
-        data: ["OFO", "摩拜", "小蓝"]
+        data: ["itemOne", "itemTwo", "itemThree"]
       },
       tooltip: {
         trigger: "axis"
