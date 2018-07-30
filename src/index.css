@@ -1,0 +1,22 @@
+@import "~antd/dist/antd.css";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.less-test {
+  color: red;
+}
+
+/* Landing Page */
+
+.landing__header {
+  background: url("/assets/image/digital-health-banner.jpg") no-repeat;
+
+  background-size: cover;
+  background-attachment: fixed;
+  height: calc(100vh - 50px);
+  min-height: 700px;
+}
