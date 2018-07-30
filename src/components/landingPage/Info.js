@@ -44,7 +44,7 @@ class SocialHeader extends Component {
 
                 <a
                   className="btn btn-outline btn-inherit"
-                  href="https://github.com/limuzi91/Serverside-Rendering"
+                  href="https://github.com/limuzi91/patientapp"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
